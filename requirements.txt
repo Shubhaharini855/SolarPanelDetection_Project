@@ -1,0 +1,14 @@
+torch 
+torchvision 
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu121  # adjust for your CUDA
+ultralytics                 # YOLOv8
+opencv-python
+pillow
+pandas
+openpyxl
+requests
+shapely
+pyproj
+rasterio[s3]                #when fetching geotiffs or working with georeferenced imagery
+matplotlib
+tqdm
