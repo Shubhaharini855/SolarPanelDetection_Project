@@ -1,0 +1,32 @@
+[
+    {
+        "sample_id": 1,
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.8265209794044495,
+        "pv_area_sqm_est": null,
+        "buffer_radius_sqft": null,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": null,
+        "image_metadata": {
+            "source": "Mapbox",
+            "capture_date": null
+        }
+    },
+    {
+        "sample_id": 2,
+        "lat": 13.035,
+        "lon": 77.597,
+        "has_solar": false,
+        "confidence": 0.9786454439163208,
+        "pv_area_sqm_est": null,
+        "buffer_radius_sqft": null,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": null,
+        "image_metadata": {
+            "source": "Mapbox",
+            "capture_date": null
+        }
+    }
+]
